@@ -1,1 +1,5 @@
 -* file1.fex
+TABLE FILE CAR
+SUM SALES
+BY COUNTRY
+END
