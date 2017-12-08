@@ -1,8 +1,9 @@
 -* file1.fex
 TABLE FILE CAR
-"Sales by Country"
+"Sales by Country by Car"
 SUM SALES
 BY COUNTRY
+BY CAR
 ON TABLE COLUMN-TOTAL
 ON TABLE PCHOLD FORMAT EXL07
 END
